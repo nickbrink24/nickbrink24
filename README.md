@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickbrink24
 - 👀 I’m interested in sports, physics, cybersecurity, cloud-computing, and artificial intelligence
-- 🌱 I’m currently studying computer science
+- 🌱 I’m currently studying computer science and physics
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: brink24@up.edu
 
